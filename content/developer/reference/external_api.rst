@@ -12,6 +12,9 @@ easily available over XML-RPC_ and accessible from a variety of languages.
    Check out the `manual <https://www.php.net/manual/en/xmlrpc.installation.php>`_
    for the installation steps.
 
+.. note::
+   Access to data via the external API is only available on odoo.SH and on-premise databases.
+
 .. seealso::
    - :doc:`Tutorial on web services <../howtos/web_services>`
 

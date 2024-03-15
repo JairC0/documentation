@@ -8,7 +8,7 @@ Quality control points
 .. |QCP| replace:: :abbr:`QCP (Quality Control Point)`
 .. |QCPs| replace:: :abbr:`QCPs (Quality Control Points)`
 
-In Odoo, *quality control points* (QCPs), are used to automatically create :doc:`quality checks
+En Odoo, *quality control points* (QCPs), are used to automatically create :doc:`quality checks
 <quality_checks>` at predetermined intervals. |QCPs| can be configured to create quality checks for
 specific operations (manufacturing, delivery, etc.), as well as specific products within those
 operations.
